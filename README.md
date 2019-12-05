@@ -59,7 +59,7 @@ I put the lugage in the trunk and got into the Uber. I wasn't quick enough or co
 
 "Software." 
 
-Then the predictable question arrives: what would I recommend the Uber driver do to break into software? Everybody wants some of that hustle. I understand. It wasn't too long that I was on the outside looking in, too! I want more people to join the industry. Goodness knows we need more people. Especially more people of colors and other minorities. We need more diversity. We need more qualified people. So I abandon the podcast I was about to listen and start talking to the Uber driver. It's a conversation I've had a hundred times this year in Ubers all over the world. 
+Then the predictable question arrives: what would I recommend the Uber driver, or their kid(s), do to break into software? Everybody wants some of that hustle. I understand. It wasn't too long that I was on the outside looking in, too! I want more people to join the industry. Goodness knows we need more people. Especially more people of colors and other minorities. We need more diversity. We need more qualified people. So I abandon the podcast I was about to listen and start talking to the Uber driver. It's a conversation I've had a hundred times this year in Ubers all over the world. 
 
 There's clearly a dearth of insight (or whatever it is I will attempt to offer here) on this topic, so I've (finally!) decided to just try writing it all down for ease of referencability. I hope this helps somebody out there. If you have questions, I'm always happy to [lend a listening ear on Twitter (@starbuxman)](http://twitter.com/starbuxman).
 
