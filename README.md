@@ -1,4 +1,5 @@
-# To The Nascent Developer 
+# We Need You
+
 <!--
 * resources for n00bs: Khan Academy, UDemy, and tons of others. CodeAcademy bootcamps. More. dont let anyone gate keep u from getting into the industry. it's usuaulyl BS and there's nothing particularly special about computer science. u can do it if u work at it. it's like anything else, just takes some practice. u really can become useful in a month. not an expert. but at leasr competent.
 * we need more engineers in the community. maybe not in SF. but we do. 
